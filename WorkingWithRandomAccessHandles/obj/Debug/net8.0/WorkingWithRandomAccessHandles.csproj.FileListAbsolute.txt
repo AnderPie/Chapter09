@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\bin\Debug\net8.0\WorkingWithRandomAccessHandles.exe
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\bin\Debug\net8.0\WorkingWithRandomAccessHandles.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\bin\Debug\net8.0\WorkingWithRandomAccessHandles.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\bin\Debug\net8.0\WorkingWithRandomAccessHandles.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\bin\Debug\net8.0\WorkingWithRandomAccessHandles.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\refint\WorkingWithRandomAccessHandles.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\WorkingWithRandomAccessHandles.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithRandomAccessHandles\obj\Debug\net8.0\ref\WorkingWithRandomAccessHandles.dll

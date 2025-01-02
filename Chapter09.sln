@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStreams", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithRandomAccessHandles", "WorkingWithRandomAccessHandles\WorkingWithRandomAccessHandles.csproj", "{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEncodings", "WorkingWithEncodings\WorkingWithEncodings.csproj", "{D9663304-B5E0-491D-AC96-BDDA7A05403E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{654350A1-0CE8-4A83-95FF-01BCA453718D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9663304-B5E0-491D-AC96-BDDA7A05403E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9663304-B5E0-491D-AC96-BDDA7A05403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9663304-B5E0-491D-AC96-BDDA7A05403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9663304-B5E0-491D-AC96-BDDA7A05403E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

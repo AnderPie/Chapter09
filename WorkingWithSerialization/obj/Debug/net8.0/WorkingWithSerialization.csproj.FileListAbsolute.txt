@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\WorkingWithSerialization.exe
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\WorkingWithSerialization.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\WorkingWithSerialization.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\WorkingWithSerialization.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\refint\WorkingWithSerialization.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\ref\WorkingWithSerialization.dll
