@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFileSystems", "WorkingWithFileSystems\WorkingWithFileSystems.csproj", "{9C921E7A-C1D7-4A17-8FAC-D5E6CE1DC895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStreams", "WorkingWithStreams\WorkingWithStreams.csproj", "{6D88C07C-323B-4CB7-B23E-F19031AAB753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithRandomAccessHandles", "WorkingWithRandomAccessHandles\WorkingWithRandomAccessHandles.csproj", "{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{9C921E7A-C1D7-4A17-8FAC-D5E6CE1DC895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C921E7A-C1D7-4A17-8FAC-D5E6CE1DC895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C921E7A-C1D7-4A17-8FAC-D5E6CE1DC895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D88C07C-323B-4CB7-B23E-F19031AAB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D88C07C-323B-4CB7-B23E-F19031AAB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D88C07C-323B-4CB7-B23E-F19031AAB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D88C07C-323B-4CB7-B23E-F19031AAB753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA6ABAA-85B0-4E3A-9B20-E57AF7A89685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

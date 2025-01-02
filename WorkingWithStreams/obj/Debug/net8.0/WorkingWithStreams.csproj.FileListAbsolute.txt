@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.exe
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\refint\WorkingWithStreams.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithStreams\obj\Debug\net8.0\ref\WorkingWithStreams.dll
