@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSCdxzEWDQE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fuzzy\\Desktop\\csdotnet\\Chapter09\\WorkingWithEnvVars\\WorkingWithEnvVars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fuzzy\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\fuzzy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

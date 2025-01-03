@@ -8,8 +8,13 @@
   </PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+	</ItemGroup>
+	
+	<ItemGroup>
 		<Using Include="System.Console" Static="true"/>
 		<Using Include="System.Environment" Static="true"/>
 		<Using Include="System.IO.Path" Static="true"/>
 	</ItemGroup>
+	
 </Project>

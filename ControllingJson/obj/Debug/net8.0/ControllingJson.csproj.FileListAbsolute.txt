@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.exe
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\bin\Debug\net8.0\ControllingJson.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\refint\ControllingJson.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.pdb
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ControllingJson.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\ControllingJson\obj\Debug\net8.0\ref\ControllingJson.dll

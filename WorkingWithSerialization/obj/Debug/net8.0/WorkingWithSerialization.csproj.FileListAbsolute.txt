@@ -13,3 +13,6 @@ C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net
 C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.pdb
 C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.genruntimeconfig.cache
 C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\ref\WorkingWithSerialization.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\csdotnet\Chapter09\WorkingWithSerialization\obj\Debug\net8.0\WorkingW.1C193705.Up2Date

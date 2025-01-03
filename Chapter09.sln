@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEncodings", "Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{654350A1-0CE8-4A83-95FF-01BCA453718D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllingJson", "ControllingJson\ControllingJson.csproj", "{34514B95-4CF0-40F0-823A-B8804D2B8DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEnvVars", "WorkingWithEnvVars\WorkingWithEnvVars.csproj", "{47B21888-961F-48BF-90CE-96BE00CBA32B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654350A1-0CE8-4A83-95FF-01BCA453718D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34514B95-4CF0-40F0-823A-B8804D2B8DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34514B95-4CF0-40F0-823A-B8804D2B8DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34514B95-4CF0-40F0-823A-B8804D2B8DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34514B95-4CF0-40F0-823A-B8804D2B8DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
