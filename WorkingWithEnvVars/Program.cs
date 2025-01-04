@@ -19,6 +19,7 @@ IDictionary userVars = GetEnvironmentVariables(EnvironmentVariableTarget.User);
  */
 
 string myComputer = "My username is %USERNAME%. My CPU is %PROCESSOR_IDENTIFIER%.";
+WriteLine(ExpandEnvironmentVariables(myComputer));
 
 string password_key = "MY_PASSWORD";
 SetEnvironmentVariable(password_key, "Pa$$w0rd");

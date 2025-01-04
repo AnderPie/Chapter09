@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Circle">
+    <Name>Circle</Name>
+    <Color>Purple</Color>
+    <Height>5</Height>
+    <Width>5</Width>
+    <Area>19.634954</Area>
+  </Shape>
+  <Shape xsi:type="Square">
+    <Name>Square</Name>
+    <Color>Pink</Color>
+    <Height>4</Height>
+    <Width>4</Width>
+    <Area>16</Area>
+  </Shape>
+  <Shape xsi:type="Rectangle">
+    <Name>Rectangle</Name>
+    <Color>Creme</Color>
+    <Height>4</Height>
+    <Width>11</Width>
+    <Area>44</Area>
+  </Shape>
+  <Shape xsi:type="Circle">
+    <Name>Circle</Name>
+    <Color>Green</Color>
+    <Height>3</Height>
+    <Width>3</Width>
+    <Area>7.0685835</Area>
+  </Shape>
+</ArrayOfShape>

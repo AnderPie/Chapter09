@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllingJson", "Controll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEnvVars", "WorkingWithEnvVars\WorkingWithEnvVars.csproj", "{47B21888-961F-48BF-90CE-96BE00CBA32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex0902", "Ex0902\Ex0902.csproj", "{1E6E4D6F-9B51-418B-9F91-BE705A4975AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B21888-961F-48BF-90CE-96BE00CBA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6E4D6F-9B51-418B-9F91-BE705A4975AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6E4D6F-9B51-418B-9F91-BE705A4975AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6E4D6F-9B51-418B-9F91-BE705A4975AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6E4D6F-9B51-418B-9F91-BE705A4975AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

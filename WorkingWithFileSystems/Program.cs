@@ -37,7 +37,6 @@ AnsiConsole.Write(table);
  * DO NOT ASSUME WHAT SEPARATOR CHAR WILL BE USED BY YOUR PROGRAM!
  * instead use Path.DirectorySeparatorChar.
  */
-
 SectionTitle("Managing drives");
 Table drives = new();
 
@@ -137,8 +136,7 @@ WriteLine($"Temporary File Name: {GetTempFileName()}");
 // To get more information about a file or directory (when it was last accessed and more) create an instance of the file info or directory info class
 
 SectionTitle("Getting file information");
-
-FileInfo info = new(backupFile);
+ FileInfo info = new(backupFile);
 WriteLine($"{backupFile}:");
 WriteLine($"  Contains {info.Length} bytes.");
 WriteLine($"  Last accessed: {info.LastAccessTime}");
